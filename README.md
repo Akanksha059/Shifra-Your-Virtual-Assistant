@@ -1,1 +1,1 @@
-# Shifra-Your-Virtual-Assistant
+# Shifra-Your-Virtual-Assistant --The primary objective of this project is to demonstrate how a combination of HTML, CSS, and JavaScript, along with browser-supported Web Speech API, can be utilized to create a functional, responsive, and interactive Virtual Assistant that operates entirely within a web browser environment. This project aims to bridge the gap between basic web development knowledge and real-world voice-interaction applications.
